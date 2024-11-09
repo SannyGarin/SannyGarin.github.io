@@ -2,3 +2,4 @@
 <h3 align="center">An aspiring data analyst from the Philippines.</h3>
 
 - 👨‍💻 All of my projects are available at https://medium.com/@garin.sanny07
+- Here's my portfolio link => https://sannygarin.github.io/#
